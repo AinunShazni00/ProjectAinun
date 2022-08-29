@@ -15,7 +15,7 @@ function App() {
     
       <div className='font-bold-text-3xl text-green-700'>Project Penjana Ainun</div>
       <p>Welcome to Ainun Project</p>
-      <p>Welcome to Ainun Project</p>
+      <p>Welcome to Ainun Project2</p>
 
       <button className='border-2' onClick={()=> navigate('/myprofile')}>Go to myprofile</button>
 
